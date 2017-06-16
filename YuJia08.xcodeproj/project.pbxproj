@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		CEDD9E991EF368B200764ADE /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDD9E981EF368B200764ADE /* main.swift */; };
+		CEDD9EA01EF370C300764ADE /* MyClasses.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDD9E9F1EF370C300764ADE /* MyClasses.swift */; };
+		CEDD9EA21EF370F300764ADE /* MyYuJia.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDD9EA11EF370F300764ADE /* MyYuJia.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		CEDD9E951EF368B200764ADE /* YuJia08 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = YuJia08; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEDD9E981EF368B200764ADE /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CEDD9E9F1EF370C300764ADE /* MyClasses.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyClasses.swift; sourceTree = "<group>"; };
+		CEDD9EA11EF370F300764ADE /* MyYuJia.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyYuJia.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				CEDD9E981EF368B200764ADE /* main.swift */,
+				CEDD9E9F1EF370C300764ADE /* MyClasses.swift */,
+				CEDD9EA11EF370F300764ADE /* MyYuJia.swift */,
 			);
 			path = YuJia08;
 			sourceTree = "<group>";
@@ -121,6 +127,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEDD9EA21EF370F300764ADE /* MyYuJia.swift in Sources */,
+				CEDD9EA01EF370C300764ADE /* MyClasses.swift in Sources */,
 				CEDD9E991EF368B200764ADE /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -8,20 +8,17 @@
 
 import Foundation
 
-class MyClass01{}
-class MyClass02 {
-    var x:Int
-    init(x:Int) {
-        self.x = x
-    }
-}
-class MyClass03{
-    var x = 2323
-    init(){}
-}
-class MyClass04 {
-    var x:Int?
-}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
